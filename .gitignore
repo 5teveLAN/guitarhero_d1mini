@@ -1,0 +1,5 @@
+.pio
+.env
+lib
+include
+test
